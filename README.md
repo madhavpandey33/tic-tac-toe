@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is a `tic-tac-toe` game and is my first experience with `React` and should be treated as a learning tutorial.
+
 ## Available Scripts
 
 In the project directory, you can run:
